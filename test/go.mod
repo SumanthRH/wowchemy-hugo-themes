@@ -1,4 +1,4 @@
-module github.com/wowchemy/wowchemy-hugo-themes/test
+module github.com/sumanthrh/wowchemy-hugo-themes/test
 
 go 1.15
 

@@ -1,4 +1,4 @@
-module github.com/wowchemy/starter-hugo-markdown-slides
+module github.com/sumanthrh/starter-hugo-markdown-slides
 
 go 1.15
 
