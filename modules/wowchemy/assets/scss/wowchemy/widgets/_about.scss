@@ -9,8 +9,8 @@
 }
 
 .avatar {
-  width: 540px;
-  height: 540px;
+  width: 512px;
+  height: 512px;
   margin: 0 auto;
   object-fit: cover;
 }
@@ -104,8 +104,8 @@ ul.ul-edu li .description p.institution {
 // For about.avatar widget
 .avatar-wrapper {
   position: relative;
-  width: 540px; // Match image size in about.avatar widget
-  height: 540px;
+  width: 512px; // Match image size in about.avatar widget
+  height: 512px;
   margin-left: auto;
   margin-right: auto;
 }
